@@ -20,6 +20,7 @@ open class ImageProcessor {
     lazy var context: CIContext = {
         return CIContext(options: nil)
     }()
+    bjhbkhvbefhbvhebfjhdbskhjbvjbhsjdrhfbvjhdfbvjhbdjvhbdkjhblsjhbvjhsbdvjkhbsekjhvbjkhsbvjkhfsbvjkhbsdfjkhv 
     
     //初始化
     public init(image: UIImage){
